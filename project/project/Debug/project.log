@@ -1,0 +1,6 @@
+﻿  project.cpp
+C:\Users\dell8\Desktop\project\project\project\project.cpp(123,46): warning C4551: function call missing argument list
+C:\Users\dell8\Desktop\project\project\project\project.cpp(169,46): warning C4551: function call missing argument list
+C:\Users\dell8\Desktop\project\project\project\project.cpp(189,43): warning C4551: function call missing argument list
+C:\Users\dell8\Desktop\project\project\project\project.cpp(231,43): warning C4551: function call missing argument list
+  project.vcxproj -> C:\Users\dell8\Desktop\project\project\Debug\project.exe
